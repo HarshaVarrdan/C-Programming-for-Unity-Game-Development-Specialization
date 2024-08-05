@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+aKtMgo4PvM=",
+  "success": true,
+  "projectFilePath": "D:\\BSC Gaming\\Coursera\\C# Unity\\Course 4\\ProgrammingAssignment1\\ProgrammingAssignment1\\ProgrammingAssignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harsb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\harsb\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\harsb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\harsb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
