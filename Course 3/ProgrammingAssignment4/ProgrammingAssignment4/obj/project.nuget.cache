@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P/kT0EEocv4=",
+  "dgSpecHash": "aXHbzZEqoS4=",
   "success": true,
-  "projectFilePath": "D:\\BSC Gaming\\Coursera\\C# Unity\\Course 3\\ProgrammingAssignment4\\ProgrammingAssignment4\\ProgrammingAssignment4.csproj",
+  "projectFilePath": "D:\\BSC Gaming\\Coursera\\C# Programming for Unity Game Development Specialization\\Course 3\\ProgrammingAssignment4\\ProgrammingAssignment4\\ProgrammingAssignment4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\harsb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
     "C:\\Users\\harsb\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",

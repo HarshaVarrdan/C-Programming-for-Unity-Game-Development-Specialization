@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BSC Gaming\\Coursera\\C# Unity\\Course 3\\ProgrammingAssignment4\\ProgrammingAssignment4\\ProgrammingAssignment4.csproj",
+      "projectUniqueName": "D:\\BSC Gaming\\Coursera\\C# Programming for Unity Game Development Specialization\\Course 3\\ProgrammingAssignment4\\ProgrammingAssignment4\\ProgrammingAssignment4.csproj",
       "projectName": "ProgrammingAssignment4",
-      "projectPath": "D:\\BSC Gaming\\Coursera\\C# Unity\\Course 3\\ProgrammingAssignment4\\ProgrammingAssignment4\\ProgrammingAssignment4.csproj",
+      "projectPath": "D:\\BSC Gaming\\Coursera\\C# Programming for Unity Game Development Specialization\\Course 3\\ProgrammingAssignment4\\ProgrammingAssignment4\\ProgrammingAssignment4.csproj",
       "packagesPath": "C:\\Users\\harsb\\.nuget\\packages\\",
-      "outputPath": "D:\\BSC Gaming\\Coursera\\C# Unity\\Course 3\\ProgrammingAssignment4\\ProgrammingAssignment4\\obj\\",
+      "outputPath": "D:\\BSC Gaming\\Coursera\\C# Programming for Unity Game Development Specialization\\Course 3\\ProgrammingAssignment4\\ProgrammingAssignment4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\harsb\\AppData\\Roaming\\NuGet\\NuGet.Config",
